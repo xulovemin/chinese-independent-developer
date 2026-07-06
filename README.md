@@ -24,6 +24,12 @@
 
 ## 3. 项目列表
 
+
+### 2026 年 7 月 6 号添加
+
+#### Felix - [Github](https://github.com/greek-zzf)
+* :white_check_mark: [Passport Size Photo](https://passportsizephoto.net)：在线证件照制作工具，上传照片后选择国家/证件预设，预览尺寸、背景和人脸裁剪，下载数字文件或 4x6 打印排版
+
 ### 2026 年 7 月 5 号添加
 
 #### Ian(海外)
@@ -36,6 +42,7 @@
 
 #### Felix - [Github](https://github.com/greek-zzf)
 * :white_check_mark: [Loomet](https://loomet.app/)：网页端串珠图案制作工具，支持图片导入、精准珠子用量统计、真实珠子预览、手机端 Build Mode 和 PDF 导出
+
 
 ### 2026 年 7 月 3 号添加
 
