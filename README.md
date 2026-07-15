@@ -31,6 +31,41 @@
 
 ### 2026 年 7 月 15 号添加
 
+#### ethanethan(上海)
+* :white_check_mark: [上海City不City](https://shanghaicitycity-web.havenai.online/)：上海城市玩法发现站，按地点和主题搜索路线，也可用 AI 规划约会、亲子、夜景等 City Walk
+* :white_check_mark: [SkillTry](https://skilltry.aimos.cloud/)：电商 AI Skill 服务市场，按次调用视频、选品、Listing、广告诊断等薄服务，无需购买整套 SaaS
+* :white_check_mark: [EasyLaunch](https://easylaunch.aimos.cloud/)：能力产品化平台，把专家方法论和 AI Skill 一键上线成带登录、收款与数据统计的可售服务
+
+#### a1245582339 - [Github](https://github.com/a1245582339)
+* :white_check_mark: [RetroWin](https://retrowin-site.pages.dev/)：在 Mac 上还原 Windows 98/XP/7/8.1/10 经典任务栏
+
+#### zzliu93-debug - [Github](https://github.com/zzliu93-debug)
+* :white_check_mark: [FocuSD Island](https://github.com/zzliu93-debug/FocuSD/releases/latest)：Windows 桌面悬浮灵动岛效率工具，把待办、每日笔记、剪贴板历史、媒体控制和 Codex 状态提示放在屏幕顶部 - [查看仓库](https://github.com/zzliu93-debug/FocuSD)
+
+#### 网遐(昆明) - [Github](https://github.com/chentao1006), [博客](https://ct106.com)
+* :white_check_mark: [BrowSync](https://browsync.ct106.com)：macOS 跨浏览器书签、标签页与浏览状态实时同步工具
+
+#### SandGrid(北京) - [Github](https://github.com/lcy362), [博客](https://lichuanyang.top/)
+* :white_check_mark: [Agnes 视频生成器](https://video.lichuanyang.top/zh/demo)：基于 agnes 免费视频模型的完全免费 AI 视频生成工作流，无需本地 GPU，可网页体验或下载一键启动 GUI 完整版 - [更多介绍](https://lichuanyang.top/posts/22470/)
+
+#### carl4carter - [Github](https://github.com/carl4carter)
+* :white_check_mark: [Image to Editable Diagram](https://imagetoeditable.com/)：将图表截图、白板照片转换为可编辑的 Draw.io、Mermaid 或 Excalidraw 文件
+
+#### zxcHolmes - [Github](https://github.com/zxcHolmes)
+* :white_check_mark: [iOS 截图装饰](https://app-shots.aibit.im/)：免费在线 iOS 截图美化生成器，在浏览器中把应用截图变成规范的 App Store 上架素材
+
+#### Mr.Baoboer - [Github](https://github.com/MasterBao66)
+* :white_check_mark: [薪跳 PayDance](https://paydance.vercel.app/)：轻量实时工资小软件，基于薪资和上下班时间动态计算每一秒的收入增长，让劳动时间价值可视化
+
+#### ZingLix - [Github](https://github.com/ZingLix), [博客](https://zinglix.xyz)
+* :white_check_mark: [Sillage](https://github.com/ZingLix/Sillage/blob/main/README.zh-CN.md)：把足迹、火车、飞机、酒店放在一起记录的旅行 App，可按时间轴与照片一起回放探索过程，支持导入航旅纵横、12306 等数据
+
+#### Chuckie Chang(厦门) - [Github](https://github.com/xizon/F-Curator), [博客](https://www.c945.com/default.html)
+* :white_check_mark: [F-Curator](https://xizon.github.io/F-Curator-Official-Website/)：跨平台网络收藏夹管理 App，支持 Mac 和 Windows，永久保存数据，可在 Electron 官网下载
+
+#### samuelhe52 - [Github](https://github.com/samuelhe52)
+* :white_check_mark: [AniShelf](https://apps.apple.com/us/app/anishelf/id6759359144)：免费 iOS 追番管理工具，集中管理番剧和动画电影，记录观看状态、日期与感想，查看剧集信息和评分
+
 #### 小小电子xxdz | 北京 - [Github](https://github.com/xxdz-Official),[哔哩哔哩](https://space.bilibili.com/3461569935575626),[博客](https://xxdz-official.github.io/x)
 * :white_check_mark: [ShangBackground](https://github.com/xxdz-Official/ShangBackground)：Windows桌面右键壁纸管理工具，实现”上一个桌面背景”的右键菜单，并且有多种壁纸模式，直接切换到某一壁纸、还可以自定义切换动画等实用功能
 * :white_check_mark: [xxdz-Itoc](https://github.com/xxdz-Official/xxdz-Itoc)：全球首款可视化Crazy Error真程序制作软件，基础部分无需编程，导入MIDI即可快速搭建卡点Windows弹窗可执行程序
