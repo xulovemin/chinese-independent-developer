@@ -24,6 +24,9 @@
 
 ## 3. 项目列表
 ### 2026 年 7 月 17 号添加
+#### chuweixuan2-afk - [Github](https://github.com/chuweixuan2-afk)
+* :white_check_mark: [澄镜塔罗](https://chengjingtarot.xyz/)：沉浸式在线塔罗占卜网站，按问题类型进入 Silver、Flower、Cathedral、Aurora 四套完整视觉场域，支持多牌阵 AI 解读、每日单牌「今日一镜」、镜札回望与隐私分享图，无需注册
+
 #### Mutx163 - [Github](https://github.com/Mutx163)
 * :white_check_mark: [轻屿课表](https://mutx.ccwu.cc)：Android 校园课表 App，深度对接 HyperOS 超级岛与焦点通知，支持 100+ 高校教务导入、情侣课表、WebDAV 云同步与桌面小组件，免费开源无广告 - [查看仓库](https://github.com/Mutx163/mikcb)
 
