@@ -26,7 +26,7 @@
 ### 2026 年 7 月 17 号添加
 
 #### 晨笙Cearl(北京) - [Github](https://github.com/chess99), [网站](https://cearl.cc)
-* :white_check_mark: [晨笙阅读](https://read.cearl.cc)：书籍解读平台，AI 辅助、人工校审的，提炼经典书籍的核心问题、论证框架与实践洞见，支持分类浏览、全文搜索和主题阅读
+* :white_check_mark: [晨笙阅读](https://read.cearl.cc)：书籍解读平台，AI 辅助+人工校审，提炼经典书籍的核心问题、论证框架与实践洞见，支持分类浏览、全文搜索和主题阅读
 
 #### Phaeris - [Github](https://github.com/PhaerisWakfu)
 * :white_check_mark: [太玄OS](https://xuan.phaeris.xyz/)：赛博算命、占卜
