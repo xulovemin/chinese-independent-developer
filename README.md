@@ -27,8 +27,6 @@
 #### AngKernel - [Github](https://github.com/AngKernel)
 * :white_check_mark: [秒折立方](https://foldcube.cn/)：「秒折立方」是一款免费微信小程序，专治行测/公考图形推理里的立体空间题。平面展开图点一下就折成正方体，相对面、相邻面自动标注；截面切割、三视图联动、立体拼合全都能动手转着看。练的不是死记口诀，是真正把「在脑子里转动图形」的能力练出来。微信搜「秒折立方」即可使用。
 
-### 2026 年 7 月 17 号添加
-
 #### linsipeng - [Github](https://github.com/linsipeng)
 * :white_check_mark: [Nuzlocke Guide](https://nuzlockeguide.com/)：宝可梦 Nuzlocke 挑战规则与流程指南，包含规则配置、遭遇追踪和队伍规划
 * :white_check_mark: [Sky Clock](https://skyclockonline.com/)：《光·遇》天空王国时间工具，集中显示游戏时间、每日重置与活动倒计时
